@@ -79,6 +79,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05d2ce2d852ab414b8b3367ea33bed21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pointer:
+    actionPath: /actions/default/in/Pointer
+    needsReinit: 0
+  teleport:
+    actionPath: /actions/default/in/Teleport
+    needsReinit: 0
+  use:
+    actionPath: /actions/default/in/Interact
+    needsReinit: 0
+  grab:
+    actionPath: /actions/default/in/Grab
+    needsReinit: 0
+  touchPadAxis:
+    actionPath: /actions/default/in/TouchpadAxis
+    needsReinit: 0
+  onPointerPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onPointerReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onTeleportPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onTeleportReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onUsePressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onUseReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onGrabPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onGrabReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onTouchPadChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &246504393325915347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -395,6 +437,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05d2ce2d852ab414b8b3367ea33bed21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pointer:
+    actionPath: /actions/default/in/Pointer
+    needsReinit: 0
+  teleport:
+    actionPath: /actions/default/in/Teleport
+    needsReinit: 0
+  use:
+    actionPath: /actions/default/in/Interact
+    needsReinit: 0
+  grab:
+    actionPath: /actions/default/in/Grab
+    needsReinit: 0
+  touchPadAxis:
+    actionPath: /actions/default/in/TouchpadAxis
+    needsReinit: 0
+  onPointerPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onPointerReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onTeleportPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onTeleportReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onUsePressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onUseReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onGrabPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  onGrabReleased:
+    m_PersistentCalls:
+      m_Calls: []
+  onTouchPadChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &9010140703942608904
 MonoBehaviour:
   m_ObjectHideFlags: 0

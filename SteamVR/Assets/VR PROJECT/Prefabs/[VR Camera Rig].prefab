@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2542631866661736409}
   - component: {fileID: 2542631866661736408}
+  - component: {fileID: 8407729907251294100}
+  - component: {fileID: 246504393325915347}
   m_Layer: 0
   m_Name: Controller [Left]
   m_TagString: Untagged
@@ -65,6 +67,30 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   broadcastDeviceChanges: 1
+--- !u!114 &8407729907251294100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542631866661736414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2ce2d852ab414b8b3367ea33bed21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &246504393325915347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542631866661736414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23b60a2c898a7d41add324a09fd22d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2542631867088451212
 GameObject:
   m_ObjectHideFlags: 0
@@ -78,7 +104,7 @@ GameObject:
   - component: {fileID: 2542631867088451209}
   - component: {fileID: 2542631867088451214}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: '[Camera]'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -173,8 +199,9 @@ GameObject:
   - component: {fileID: 2542631867570204726}
   - component: {fileID: 2542631867570204727}
   - component: {fileID: 2542631867570204724}
+  - component: {fileID: 1078996814824186844}
   m_Layer: 0
-  m_Name: VR Camera Rig
+  m_Name: '[VR Camera Rig]'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -273,6 +300,22 @@ MonoBehaviour:
   - {x: -2.15, y: 0.01, z: -1.65}
   - {x: -2.15, y: 0.01, z: 1.65}
   - {x: 2.15, y: 0.01, z: 1.65}
+--- !u!114 &1078996814824186844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542631867570204714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d182175353edf1e4faf1b15ed6e9ea11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leftCtrl: {fileID: 2542631866661736409}
+  rightCtrl: {fileID: 2542631868115738479}
+  headset: {fileID: 2542631867088451215}
+  playArea: {fileID: 2542631867570204725}
 --- !u!1 &2542631868115738476
 GameObject:
   m_ObjectHideFlags: 0
@@ -283,6 +326,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2542631868115738479}
   - component: {fileID: 2542631868115738478}
+  - component: {fileID: 2217393402290017017}
+  - component: {fileID: 9010140703942608904}
   m_Layer: 0
   m_Name: Controller [Right]
   m_TagString: Untagged
@@ -338,6 +383,30 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   broadcastDeviceChanges: 1
+--- !u!114 &2217393402290017017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542631868115738476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d2ce2d852ab414b8b3367ea33bed21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &9010140703942608904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2542631868115738476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23b60a2c898a7d41add324a09fd22d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2542631866410539333
 PrefabInstance:
   m_ObjectHideFlags: 0

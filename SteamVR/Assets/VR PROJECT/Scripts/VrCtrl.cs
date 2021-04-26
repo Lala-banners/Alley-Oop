@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
 
-namespace BreadAndButterVR
+namespace AlleyOop.VR
 {
     //Main VR Controller
     [RequireComponent(typeof(SteamVR_Behaviour_Pose))]

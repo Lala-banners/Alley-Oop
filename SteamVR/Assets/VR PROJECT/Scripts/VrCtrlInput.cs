@@ -2,7 +2,7 @@ using UnityEngine;
 
 using Valve.VR;
 
-namespace BreadAndButterVR
+namespace AlleyOop.VR
 {
     public class VrCtrlInput : MonoBehaviour
     {

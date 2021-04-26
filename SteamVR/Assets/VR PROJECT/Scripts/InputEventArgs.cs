@@ -3,7 +3,7 @@ using UnityEngine.Events;
 using Valve.VR;
 using Serializable = System.SerializableAttribute;
 
-namespace BreadAndButterVR
+namespace AlleyOop.VR
 {
     [Serializable]
     public class VRInputEvent : UnityEvent<InputEventArgs> 

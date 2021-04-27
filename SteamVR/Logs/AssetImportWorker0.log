@@ -392,3 +392,100 @@ System memory in use after: 83.7 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2254.
 Total: 2.318600 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.066200 ms MarkObjects: 1.992700 ms  DeleteObjects: 0.076800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.078405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.8 MB.
+System memory in use after: 83.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 2.850400 ms (FindLiveObjects: 0.268000 ms CreateObjectMapping: 0.081200 ms MarkObjects: 2.376100 ms  DeleteObjects: 0.123700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4839.095184 seconds.
+  path: Assets/VR PROJECT/Basketball_FBX
+  artifactKey: Guid(550c47e401d0e26419070fabf4aeabcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Basketball_FBX using Guid(550c47e401d0e26419070fabf4aeabcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addf60e8ae78e39ac6621c325a97eef0') in 0.011451 seconds
+  Import took 0.014505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000892 seconds.
+  path: Assets/VR PROJECT/Basketball_FBX
+  artifactKey: Guid(550c47e401d0e26419070fabf4aeabcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Basketball_FBX using Guid(550c47e401d0e26419070fabf4aeabcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addf60e8ae78e39ac6621c325a97eef0') in 0.004059 seconds
+  Import took 0.006761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031638 seconds.
+  path: Assets/VR PROJECT/Basketball_FBX/basketball.fbx
+  artifactKey: Guid(3ad610e1470ce084397c445adbd675e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Basketball_FBX/basketball.fbx using Guid(3ad610e1470ce084397c445adbd675e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89fb405d3bf0b2d97f6e5908fd6e56a') in 0.162921 seconds
+  Import took 0.166733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 477.964455 seconds.
+  path: Assets/VR PROJECT/Prefabs/[VR Camera Rig].prefab
+  artifactKey: Guid(a778c5ef1da343c4c9a57548e5731fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Prefabs/[VR Camera Rig].prefab using Guid(a778c5ef1da343c4c9a57548e5731fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4278351866dee0d51554050c5ca51c1') in 0.164479 seconds
+  Import took 0.168374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/VR PROJECT/Prefabs/basketball hoop_.FBX
+  artifactKey: Guid(de289204f14ead84981559ba00dcbb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Prefabs/basketball hoop_.FBX using Guid(de289204f14ead84981559ba00dcbb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3375af1c8824e5a5d56c6efeeb73155') in 0.376547 seconds
+  Import took 0.379325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1415.113632 seconds.
+  path: Assets/VR PROJECT/Prefabs/Basketball Hoop.prefab
+  artifactKey: Guid(7bfc846a5a3524f4ca32ffbcae84ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Prefabs/Basketball Hoop.prefab using Guid(7bfc846a5a3524f4ca32ffbcae84ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd168874025bfb8701cdc0040c8ec78c9') in 0.062493 seconds
+  Import took 0.066671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.682365 seconds.
+  path: Assets/VR PROJECT/Prefabs/Basketball.prefab
+  artifactKey: Guid(0a3cdacefce00b74f9f966995df2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Prefabs/Basketball.prefab using Guid(0a3cdacefce00b74f9f966995df2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a56116742a56e957b723d831c081be') in 0.033253 seconds
+  Import took 0.036737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.663437 seconds.
+  path: Assets/VR PROJECT/Prefabs/Models
+  artifactKey: Guid(0943338381d84e047baffaaab94187b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Prefabs/Models using Guid(0943338381d84e047baffaaab94187b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32dc677942deeef3c9c1ca0421b892a2') in 0.008248 seconds
+  Import took 0.011098 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

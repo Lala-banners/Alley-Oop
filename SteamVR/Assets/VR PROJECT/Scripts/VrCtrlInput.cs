@@ -55,7 +55,7 @@ namespace AlleyOop.VR
         #endregion
 
         private VrCtrl controller;
-
+        private new Rigidbody rb;
         public void Initialise(VrCtrl _controller)
         {
             controller = _controller;

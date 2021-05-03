@@ -16,6 +16,7 @@ namespace AlleyOop.VR
         /// </summary>
         public Vector3 Velocity => pose.GetVelocity();
 
+        public Rigidbody Rigidbody => rb;
         /// <summary>
         /// How fast the controller is rotating and in which direction.
         /// </summary>
@@ -27,10 +28,12 @@ namespace AlleyOop.VR
         #region Vars
         private SteamVR_Behaviour_Pose pose;
         private VrCtrlInput input;
+        private new Rigidbody rb;
         #endregion
 
         public void Initialise()
         {
+            rb = gameObject.GetComponent<Rigidbody>();
             pose = gameObject.GetComponent<SteamVR_Behaviour_Pose>();
             input = gameObject.GetComponent<VrCtrlInput>();
 

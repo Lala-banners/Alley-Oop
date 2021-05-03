@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace AlleyOop.VR.Interaction
@@ -14,6 +12,9 @@ namespace AlleyOop.VR.Interaction
         private VrCtrlInput input;
         private InteractableObject collidingObject; //We are colliding with that we are not holding
         private InteractableObject heldObject; //Object we are holding
+
+        //before held object gets parented to this controller
+        private Transform heldOriginalParent;
 
         // Start is called before the first frame update
         void Start()
@@ -44,68 +45,46 @@ namespace AlleyOop.VR.Interaction
 
         private void GrabObject()
         {
-            //Safety measure to prevent connecting to something that doesn't exist
-            if (collidingObject == null)
-                return;
-
             heldObject = collidingObject;
             collidingObject = null;
-            FixedJoint joint = AddJoint(heldObject.Rigidbody); //The other object is the interactable object NOT the controller
 
-            if(heldObject.AttachPoint != null)
-            {
-                //Adjusting the object's position to the controller attach point
-                heldObject.transform.position = 
-                    transform.position - (heldObject.AttachPoint.position - heldObject.transform.position);
+            heldOriginalParent = heldObject.transform.parent;
+            heldObject.Rigidbody.isKinematic = true;
+            SnapObject(heldObject.transform, heldObject.AttachPoint);
 
-                //Adjust the object's rotation to the controller attach point
-                heldObject.transform.rotation = 
-                    transform.rotation * Quaternion.Euler(heldObject.AttachPoint.localEulerAngles);
-            }
-            else
-            {
-                //If there is no attach point then sync the position and rotation's up
-                heldObject.transform.position = transform.position;
-                heldObject.transform.rotation = transform.rotation;
-            }
-
-            //Run the interaction events for Grab
-            grabbed.Invoke(new InteractEventArgs(input.Controller, heldObject.Rigidbody, heldObject.Collider));
             heldObject.OnObjectGrabbed(input.Controller);
+            grabbed.Invoke(new InteractEventArgs(input.Controller, heldObject.Rigidbody, heldObject.Collider));
         }
 
         private void ReleaseObject()
         {
-            RemoveJoint(gameObject.GetComponent<FixedJoint>());
-            released.Invoke(new InteractEventArgs(input.Controller, heldObject.Rigidbody, heldObject.Collider));
+            heldObject.Rigidbody.isKinematic = false;
+            heldObject.transform.SetParent(heldOriginalParent);
+
+            heldObject.Rigidbody.velocity = input.Controller.Velocity;
+            heldObject.Rigidbody.angularVelocity = input.Controller.AngularVelocity;
+
             heldObject.OnObjectReleased(input.Controller);
+            released.Invoke(new InteractEventArgs(input.Controller, heldObject.Rigidbody, heldObject.Collider));
             heldObject = null;
         }
 
-        /// <summary>
-        /// Adds connection between the controller and object and adds velocity for realism when throwing an object.
-        /// </summary>
-        private FixedJoint AddJoint(Rigidbody _richibody)
+        private void SnapObject(Transform _object, Transform _snapHandle)
         {
-            FixedJoint joint = gameObject.AddComponent<FixedJoint>();
-            joint.breakForce = 20000;
-            joint.breakTorque = 20000;
-            joint.connectedBody = _richibody;
-            return joint;
-        }
-
-        /// <summary>
-        /// Removed connection between the controller and object and adds velocity for realism when throwing an object.
-        /// </summary>
-        private void RemoveJoint(FixedJoint _joint)
-        {
-            if(_joint != null)
+            Rigidbody attachPoint = input.Controller.Rigidbody;
+            _object.transform.SetParent(transform);
+            if(_snapHandle == null)
             {
-                //Disconnects the rigidbody from the joint's connected body
-                _joint.connectedBody = null; 
-                Destroy(_joint);
-                heldObject.Rigidbody.velocity = input.Controller.Velocity;
-                heldObject.Rigidbody.angularVelocity = input.Controller.AngularVelocity;
+                //Reset to same as controller pos + rotation
+                _object.localPosition = Vector3.zero;
+                _object.localRotation = Quaternion.identity;
+            }
+            else
+            {
+                //Calculate correct pos and rot based on snap handle
+                _object.rotation = attachPoint.transform.rotation * Quaternion.Euler(_snapHandle.localEulerAngles);
+                _object.position = attachPoint.transform.position - (_snapHandle.position - _object.position);
+
             }
         }
     }

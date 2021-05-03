@@ -128,3 +128,44 @@ Received Import Request.
 Start importing Assets/VR PROJECT/Scripts/VrCtrl.cs using Guid(e23b60a2c898a7d41add324a09fd22d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb67a7e186c3b39b4b4be364bdaa3929') in 0.008124 seconds
   Import took 0.012378 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 2.632500 ms (FindLiveObjects: 0.195200 ms CreateObjectMapping: 0.062800 ms MarkObjects: 2.273900 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 954.547451 seconds.
+  path: Assets/VR PROJECT/Scripts/VrCtrl.cs
+  artifactKey: Guid(e23b60a2c898a7d41add324a09fd22d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR PROJECT/Scripts/VrCtrl.cs using Guid(e23b60a2c898a7d41add324a09fd22d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5db4816d280b719a9d6a115c6568dbc') in 0.004693 seconds
+  Import took 0.007312 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

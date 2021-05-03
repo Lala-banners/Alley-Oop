@@ -7,30 +7,26 @@ namespace AlleyOop.VR.Interaction
     public class MouseThrow : MonoBehaviour
     {
         public GameObject basketball;
-
+        [SerializeField] private float force = 5f;
+        [SerializeField] private Camera mainCam;
 
         // Start is called before the first frame update
         void Start()
         {
-
+            basketball.GetComponent<Rigidbody>();
         }
 
         // Update is called once per frame
         void Update()
         {
-
+            if (Input.GetMouseButtonDown(0))
+            {
+                //Release mouse button and launch the basketball
+                GameObject clone = Instantiate(basketball, transform.position, transform.rotation);
+                mainCam.ScreenToWorldPoint(Input.mousePosition);
+                clone.GetComponent<Rigidbody>().AddForce(transform.forward * force, ForceMode.Impulse);
+            }
         }
 
-        // OnMouseDown is called when the user has pressed the mouse button while over the GUIElement or Collider
-        private void OnMouseDown()
-        {
-
-        }
-
-        // OnMouseUp is called when the user has released the mouse button
-        private void OnMouseUp()
-        {
-
-        }
     }
 }

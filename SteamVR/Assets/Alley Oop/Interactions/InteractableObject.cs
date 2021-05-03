@@ -9,7 +9,7 @@ namespace AlleyOop.VR.Interaction
     public class InteractableObject : MonoBehaviour
     {
         //Properties for rb, collider and attach point 
-        public Rigidbody Rigidbody => Rigidbody;
+        public Rigidbody Rigidbody => rigidbody;
         public Collider Collider => collider;
         public Transform AttachPoint => attachPoint;
 

@@ -7,7 +7,7 @@ namespace AlleyOop.VR.Interaction
     public class MouseThrow : MonoBehaviour
     {
         public GameObject basketball;
-        [SerializeField] private float force = 5f;
+        [SerializeField] private float throwForce = 5f;
         [SerializeField] private Camera mainCam;
 
         // Start is called before the first frame update
@@ -24,9 +24,8 @@ namespace AlleyOop.VR.Interaction
                 //Release mouse button and launch the basketball
                 GameObject clone = Instantiate(basketball, transform.position, transform.rotation);
                 mainCam.ScreenToWorldPoint(Input.mousePosition);
-                clone.GetComponent<Rigidbody>().AddForce(transform.forward * force, ForceMode.Impulse);
+                clone.GetComponent<Rigidbody>().AddForce(transform.forward * throwForce, ForceMode.Impulse);
             }
         }
-
     }
 }

@@ -13,9 +13,9 @@ namespace AlleyOop.PC
         [Tooltip("When the initial amount of objects have been used, do you want to spawn more?")] public bool shouldExpand;
     }
 
-    public class BallPool : MonoBehaviour
+    public class Pool : MonoBehaviour
     {
-        public static BallPool instance;
+        public static Pool instance;
         public List<GameObject> pooledObjects;
         public List<ObjectPoolItem> itemsToPool;
 

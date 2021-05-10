@@ -6,11 +6,11 @@ using UnityEngine.UI;
 
 namespace AlleyOop.PC
 {
-    public class PlayerInventory : MonoBehaviour
+    public class ClickBall : MonoBehaviour
     {
 
         [Header("Ball")]
-        public Ball selectedBall;
+        Ball selectedBall;
         bool ballGrabbed;
         public float ballGrabSpeed;
         float ballGrabSpeedProper;
@@ -41,7 +41,7 @@ namespace AlleyOop.PC
 
             if (Physics.Raycast(cam.transform.position, cam.transform.TransformDirection(Vector3.forward), out hit, pickupDist))
             {
-                Ball selectedBall = hit.transform.gameObject.GetComponent<Ball>();
+                selectedBall = hit.transform.gameObject.GetComponent<Ball>();
                 
                 if(selectedBall != null && pickupText != null)
                 {

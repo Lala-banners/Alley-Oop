@@ -14,12 +14,12 @@ namespace AlleyOop.PC
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 //To spawn specific pooled object with the tag Basketball
-                GameObject basketball = BallPool.instance.GetPooledBasketball("Ball");
-                if (basketball != null)
+                GameObject objectToSpawn = Pool.instance.GetPooledBasketball("Ball");
+                if (objectToSpawn != null)
                 {
-                    basketball.transform.position = spawnPos.transform.position;
-                    basketball.transform.rotation = spawnPos.transform.rotation;
-                    basketball.SetActive(true);
+                    objectToSpawn.transform.position = spawnPos.transform.position;
+                    objectToSpawn.transform.rotation = spawnPos.transform.rotation;
+                    objectToSpawn.SetActive(true);
                 }
             }
         }

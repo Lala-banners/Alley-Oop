@@ -172,3 +172,53 @@ Received Import Request.
 Start importing Assets/Alley Oop/Scripts/PC/ExampleSpawn.cs using Guid(8177b332ac5bbca40a60feec09a501cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff8d6baf0b28be32593eb21f9c412b2') in 0.008742 seconds
   Import took 0.014140 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 27.881222 seconds.
+  path: Assets/Alley Oop/Prefabs/Basketball Hoop.prefab
+  artifactKey: Guid(7bfc846a5a3524f4ca32ffbcae84ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Basketball Hoop.prefab using Guid(7bfc846a5a3524f4ca32ffbcae84ec86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e000cbe2d66c577875e1deef2992431') in 0.251737 seconds
+  Import took 0.257227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Alley Oop/Prefabs/Basketball.prefab
+  artifactKey: Guid(0a3cdacefce00b74f9f966995df2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Basketball.prefab using Guid(0a3cdacefce00b74f9f966995df2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ea868be3c1387a3379f07fe7fd9a66') in 0.027219 seconds
+  Import took 0.031978 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003659 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2942 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3602.
+Total: 3.421600 ms (FindLiveObjects: 0.496500 ms CreateObjectMapping: 0.250000 ms MarkObjects: 2.544800 ms  DeleteObjects: 0.128900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

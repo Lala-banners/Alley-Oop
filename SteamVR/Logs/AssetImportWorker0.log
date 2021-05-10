@@ -345,3 +345,99 @@ Received Import Request.
 Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(72872ddd709d98d4891855246bfb673a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d49ef65ebd152feafb53f87e2d7de9') in 0.042081 seconds
   Import took 0.048566 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 443.707331 seconds.
+  path: Assets/DeepSpaceSkyboxPack
+  artifactKey: Guid(a27eccf51da97634e9482bd046a0d5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack using Guid(a27eccf51da97634e9482bd046a0d5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4151a55aaca3e1e38fd6fb33859d3d2d') in 0.012084 seconds
+  Import took 0.022474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.495232 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace
+  artifactKey: Guid(ce057f043ba6dc24ea76f69bd6bc3c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace using Guid(ce057f043ba6dc24ea76f69bd6bc3c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fa22673e028222df265f6cf309ac06') in 0.014021 seconds
+  Import took 0.021909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.542805 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Material
+  artifactKey: Guid(a8266c047b034094aabaf83a9ee9e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Material using Guid(a8266c047b034094aabaf83a9ee9e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e6fac1052d5c0a2cc96e458eb8aaf5') in 0.014066 seconds
+  Import took 0.023009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102368 seconds.
+  path: Assets/DeepSpaceSkyboxPack/DiverseSpace/Material/DiverseSpaceMaterial.mat
+  artifactKey: Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/DiverseSpace/Material/DiverseSpaceMaterial.mat using Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5db52dceb372b2317c9c2ed5b446df') in 0.749415 seconds
+  Import took 0.763979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.316086 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalaxyFire/Material/GalaxyFireMaterial.mat
+  artifactKey: Guid(69e10e886d52d20478f9ed5424126be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalaxyFire/Material/GalaxyFireMaterial.mat using Guid(69e10e886d52d20478f9ed5424126be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729a709ab9c78501d90e11a12e53ce50') in 0.037151 seconds
+  Import took 0.046365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.342069 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-back.tif
+  artifactKey: Guid(b20eb548526e25d4cab43ed7115f68c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-back.tif using Guid(b20eb548526e25d4cab43ed7115f68c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188b85be4cd2257d3680ac0bc885d9e4') in 0.073921 seconds
+  Import took 0.085903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_down.tif
+  artifactKey: Guid(88884f13580cfce4caf6b582ef47bd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_down.tif using Guid(88884f13580cfce4caf6b582ef47bd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e331a8806049c5c5d287b7dc70be26e') in 0.034038 seconds
+  Import took 0.048705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-up.tif
+  artifactKey: Guid(3eaf8afd3a146b2458ec5217fc7d6ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-up.tif using Guid(3eaf8afd3a146b2458ec5217fc7d6ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d3b6d4f28ceec6cfc52999c1bd1506') in 0.034080 seconds
+  Import took 0.046773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-front.tif
+  artifactKey: Guid(fd076a6dda0fdb942b4954a21b68d4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen-front.tif using Guid(fd076a6dda0fdb942b4954a21b68d4df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be59bd3f00162d46d16101e3cb5e3704') in 0.040544 seconds
+  Import took 0.054953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_right.tif
+  artifactKey: Guid(af49956db6ee9f94b9b4300a5b0e9008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_right.tif using Guid(af49956db6ee9f94b9b4300a5b0e9008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2a5b1331d8f2387be27464f19daf82') in 0.052594 seconds
+  Import took 0.067284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_left.tif
+  artifactKey: Guid(484552bdb42439747995db240af61c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Textures/galacticgreen_left.tif using Guid(484552bdb42439747995db240af61c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281f3a0b1aa3f50f0bd9b3437c08edf9') in 0.042245 seconds
+  Import took 0.057080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.529212 seconds.
+  path: Assets/DeepSpaceSkyboxPack/GalacticGreen/Material/GalacticGreenMaterial.mat
+  artifactKey: Guid(42eaf2c5dbb13dc498f15df5a5b05fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeepSpaceSkyboxPack/GalacticGreen/Material/GalacticGreenMaterial.mat using Guid(42eaf2c5dbb13dc498f15df5a5b05fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7751311534ea5953b836cf155cfd8c2d') in 0.045711 seconds
+  Import took 0.058114 seconds .
+

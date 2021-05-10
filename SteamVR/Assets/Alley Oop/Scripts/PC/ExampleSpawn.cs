@@ -7,6 +7,7 @@ namespace AlleyOop.PC
     public class ExampleSpawn : MonoBehaviour
     {
         [SerializeField] private Transform spawnPos;
+        public AudioSource rainbowFX;
 
         // Update is called once per frame
         void Update()
@@ -14,12 +15,13 @@ namespace AlleyOop.PC
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 //To spawn specific pooled object with the tag Basketball
-                GameObject objectToSpawn = Pool.instance.GetPooledBasketball("Ball");
-                if (objectToSpawn != null)
+                GameObject basketball = BallPool.instance.GetPooledBasketball("Ball");
+                if (basketball != null)
                 {
-                    objectToSpawn.transform.position = spawnPos.transform.position;
-                    objectToSpawn.transform.rotation = spawnPos.transform.rotation;
-                    objectToSpawn.SetActive(true);
+                    basketball.transform.position = spawnPos.transform.position;
+                    basketball.transform.rotation = spawnPos.transform.rotation;
+                    basketball.SetActive(true);
+                    rainbowFX.Play();
                 }
             }
         }

@@ -3,33 +3,38 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.Audio;
 
-public class ScoreManager : MonoBehaviour
+namespace AlleyOop.VR
 {
-    public int score = 0;
-    public GameObject hoop;
-    public TMP_Text scoreText;
-
-    // Start is called before the first frame update
-    void Start()
+    public class ScoreManager : MonoBehaviour
     {
-       score = 0;
-    }
+        public int score = 0;
+        public TMP_Text scoreText;
+        public AudioSource scoreFX;
 
-    private void Update()
-    {
-        scoreText.text = score.ToString();
-    }
-
-
-    public void OnTriggerEnter(Collider collider)
-    {
-
-        //collider = hoop.GetComponent<Collider>();
-        if (collider.gameObject.CompareTag("Ball"))
+        // Start is called before the first frame update
+        void Start()
         {
-            score++;
+            score = 0;
         }
-    }
 
+        private void Update()
+        {
+            scoreText.text = score.ToString();
+        }
+
+
+        public void OnTriggerEnter(Collider collider)
+        {
+
+            //collider = hoop.GetComponent<Collider>();
+            if (collider.gameObject.CompareTag("Ball"))
+            {
+                score++;
+                scoreFX.Play();
+            }
+        }
+
+    }
 }

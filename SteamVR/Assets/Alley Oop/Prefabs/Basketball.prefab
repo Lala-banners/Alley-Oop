@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780809680}
   - component: {fileID: 780809679}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 678851113559209242}
   - component: {fileID: 8515394149705026884}
   - component: {fileID: 5739795571777004616}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Basketball
   m_TagString: Ball
   m_Icon: {fileID: 0}

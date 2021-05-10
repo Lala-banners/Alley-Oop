@@ -2221,3 +2221,4 @@ Received Import Request.
 Start importing Assets/Electric Sfx/Mp3/SpaceEngine/SpaceEngine_Running_Loop_00.mp3 using Guid(42adb0e585b7e480093cc145790ef3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1222dfdaa40c279dff3b3831fda23b') in 0.017802 seconds
   Import took 0.023573 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

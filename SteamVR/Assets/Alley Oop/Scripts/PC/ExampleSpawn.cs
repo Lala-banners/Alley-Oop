@@ -22,17 +22,6 @@ namespace AlleyOop.PC
                     basketball.SetActive(true);
                 }
             }
-
-            if (Input.GetKeyDown(KeyCode.P))
-            {
-                GameObject hoop = BallPool.instance.GetPooledBasketball("Hoop");
-                if(hoop != null)
-                {
-                    hoop.transform.position = spawnPos.transform.position;
-                    hoop.transform.rotation = spawnPos.transform.rotation;
-                    hoop.SetActive(true);
-                }
-            }
         }
     }
 }

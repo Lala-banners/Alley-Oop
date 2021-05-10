@@ -16,7 +16,7 @@ namespace AlleyOop.PC
     public class BallPool : MonoBehaviour
     {
         public static BallPool instance;
-        public List<GameObject> pooledBalls;
+        public List<GameObject> pooledObjects;
         public List<ObjectPoolItem> itemsToPool;
 
         private void Awake()
@@ -26,16 +26,14 @@ namespace AlleyOop.PC
 
         private void Start()
         {
-            pooledBalls = new List<GameObject>();
-
-            pooledBalls = new List<GameObject>();
+            pooledObjects = new List<GameObject>();
             foreach (ObjectPoolItem item in itemsToPool)
             {
                 for (int i = 0; i < item.amountToPool; i++)
                 {
                     GameObject obj = (GameObject)Instantiate(item.objectToPool);
                     obj.SetActive(false);
-                    pooledBalls.Add(obj);
+                    pooledObjects.Add(obj);
                 }
             }
         }
@@ -47,11 +45,11 @@ namespace AlleyOop.PC
         /// <returns></returns>
         public GameObject GetPooledBasketball(string _tag)
         {
-            for (int i = 0; i < pooledBalls.Count; i++)
+            for (int i = 0; i < pooledObjects.Count; i++)
             {
-                if (!pooledBalls[i].activeInHierarchy && pooledBalls[i].tag == _tag)
+                if (!pooledObjects[i].activeInHierarchy && pooledObjects[i].tag == _tag)
                 {
-                    return pooledBalls[i];
+                    return pooledObjects[i];
                 }
             }
             foreach (ObjectPoolItem item in itemsToPool)
@@ -63,7 +61,7 @@ namespace AlleyOop.PC
                     {
                         GameObject obj = (GameObject)Instantiate(item.objectToPool);
                         obj.SetActive(false);
-                        pooledBalls.Add(obj);
+                        pooledObjects.Add(obj);
                         return obj;
                     }
                 }

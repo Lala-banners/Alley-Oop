@@ -7,6 +7,7 @@ namespace AlleyOop.PC
     public class ExampleSpawn : MonoBehaviour
     {
         [SerializeField] private Transform spawnPos;
+        public AudioSource rainbowFX;
 
         // Update is called once per frame
         void Update()
@@ -20,6 +21,7 @@ namespace AlleyOop.PC
                     basketball.transform.position = spawnPos.transform.position;
                     basketball.transform.rotation = spawnPos.transform.rotation;
                     basketball.SetActive(true);
+                    rainbowFX.Play();
                 }
             }
         }

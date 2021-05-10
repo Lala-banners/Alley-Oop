@@ -1618,3 +1618,229 @@ Received Import Request.
 Start importing Assets/Alley Oop/Prefabs/Rainbow.prefab using Guid(10957b27431ebea479e3b65d0977a5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d185b9bf9c18e4a33eee1e09de868e') in 0.024630 seconds
   Import took 0.029880 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 85.135299 seconds.
+  path: Assets/Alley Oop/Materials/RainbowGraph.shadergraph
+  artifactKey: Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/RainbowGraph.shadergraph using Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e0b20b38f8f10b0462c3d7c9406b15b') in 0.007981 seconds
+  Import took 0.013310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.785850 seconds.
+  path: Assets/Alley Oop/Materials/Rainbow.mat
+  artifactKey: Guid(7c7d5aa4867cd294c9f0781f33c4d8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/Rainbow.mat using Guid(7c7d5aa4867cd294c9f0781f33c4d8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922dac9e369de4b80e641ed907f0ce05') in 0.026104 seconds
+  Import took 0.031961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.227794 seconds.
+  path: Assets/Alley Oop/Materials/RainbowGraph.shadergraph
+  artifactKey: Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/RainbowGraph.shadergraph using Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52890668647ae4140630e17d7d78750') in 0.010232 seconds
+  Import took 0.017254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.478950 seconds.
+  path: Assets/Alley Oop/Materials/RainbowGraph.shadergraph
+  artifactKey: Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/RainbowGraph.shadergraph using Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71bb30c0876d98a3e539862e6c097af1') in 0.004610 seconds
+  Import took 0.011200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.639450 seconds.
+  path: Assets/Alley Oop/Materials/RainbowGraph.shadergraph
+  artifactKey: Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/RainbowGraph.shadergraph using Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3c5524cda1ff999532edc3c1ead4a6') in 0.008219 seconds
+  Import took 0.013499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.205389 seconds.
+  path: Assets/Alley Oop/Materials/RainbowGraph.shadergraph
+  artifactKey: Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Materials/RainbowGraph.shadergraph using Guid(441266f8385a59148a4ecfca23d3b074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9607472a0d4939718136ad51af9b789') in 0.005129 seconds
+  Import took 0.010040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 550.314765 seconds.
+  path: Assets/Electric Sfx
+  artifactKey: Guid(fe09d381e34f6084a85244e388416c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx using Guid(fe09d381e34f6084a85244e388416c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f913e90026a333d88a1cbcf27710d54c') in 0.007135 seconds
+  Import took 0.012663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000815 seconds.
+  path: Assets/Electric Sfx
+  artifactKey: Guid(fe09d381e34f6084a85244e388416c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx using Guid(fe09d381e34f6084a85244e388416c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f913e90026a333d88a1cbcf27710d54c') in 0.002824 seconds
+  Import took 0.008238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.920354 seconds.
+  path: Assets/Electric Sfx/Mp3
+  artifactKey: Guid(f014f4d057bdf114698911c859bd3c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3 using Guid(f014f4d057bdf114698911c859bd3c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c764c00df3157c68497ee04a6b736f3a') in 0.008820 seconds
+  Import took 0.013694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.283024 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth
+  artifactKey: Guid(9afc5b446b7e2a447a50d69419b424a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth using Guid(9afc5b446b7e2a447a50d69419b424a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8e66969f3769165865eb7eae146c03') in 0.006987 seconds
+  Import took 0.012770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001120 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth
+  artifactKey: Guid(9afc5b446b7e2a447a50d69419b424a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth using Guid(9afc5b446b7e2a447a50d69419b424a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8e66969f3769165865eb7eae146c03') in 0.003122 seconds
+  Import took 0.008543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047627 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_00.mp3
+  artifactKey: Guid(902e6de10aaca4f6085115dbb2f0fd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_00.mp3 using Guid(902e6de10aaca4f6085115dbb2f0fd28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65a7de72364481c2fb00707fcd1fcf9') in 0.041484 seconds
+  Import took 0.046958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_04.mp3
+  artifactKey: Guid(78a8f1f75d9664cc9841b85888a5b038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_04.mp3 using Guid(78a8f1f75d9664cc9841b85888a5b038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2fa691529972ec772eafe34dcc2481') in 0.012408 seconds
+  Import took 0.017097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_05.mp3
+  artifactKey: Guid(ea19f0b8cdbde4008927619b32786aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_05.mp3 using Guid(ea19f0b8cdbde4008927619b32786aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d2175c0bf46146e49b66015f5a4523') in 0.013166 seconds
+  Import took 0.018099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_03.mp3
+  artifactKey: Guid(7c371c022dcec47d4acf568f7526aeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_03.mp3 using Guid(7c371c022dcec47d4acf568f7526aeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3277062b6b87dae4529742c81a8f7e') in 0.012189 seconds
+  Import took 0.016869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_06.mp3
+  artifactKey: Guid(89e31bde144724abea1a2744a02efd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_06.mp3 using Guid(89e31bde144724abea1a2744a02efd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1728c54678c6889fbf4409010eb78659') in 0.011408 seconds
+  Import took 0.016258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_02.mp3
+  artifactKey: Guid(ce4265975e0204efbbd440272644e19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_02.mp3 using Guid(ce4265975e0204efbbd440272644e19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2baffdc2ed3b079c4c879474517894c0') in 0.012747 seconds
+  Import took 0.017307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_01.mp3
+  artifactKey: Guid(49881a28df9bd435da328f18ea6811c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Electric Sfx/Mp3/Jingle_Win_Synth/Jingle_Win_Synth_01.mp3 using Guid(49881a28df9bd435da328f18ea6811c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd373e2781b8dd8041222e3e5f00be849') in 0.012573 seconds
+  Import took 0.017917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.479541 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/MasterLongbowMix.mixer
+  artifactKey: Guid(95096f29d1ddcd647ace66f3641d42f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/MasterLongbowMix.mixer using Guid(95096f29d1ddcd647ace66f3641d42f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8759b1fd2f28bf75e925ad3a78b8186') in 0.011063 seconds
+  Import took 0.017930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.560210 seconds.
+  path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/Default.mixer
+  artifactKey: Guid(ec12f7772c03e4c4c9e4c2f1643595ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Longbow/Sounds/Default.mixer using Guid(ec12f7772c03e4c4c9e4c2f1643595ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72697984d5d277f105bee69fab83927a') in 0.008376 seconds
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2939 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.0 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3651.
+Total: 3.071300 ms (FindLiveObjects: 0.477000 ms CreateObjectMapping: 0.253900 ms MarkObjects: 2.225000 ms  DeleteObjects: 0.114300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2938 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.0 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3654.
+Total: 3.707900 ms (FindLiveObjects: 0.372400 ms CreateObjectMapping: 0.240700 ms MarkObjects: 2.931200 ms  DeleteObjects: 0.162500 ms)
+

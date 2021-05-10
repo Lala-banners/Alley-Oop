@@ -1,0 +1,74 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace AlleyOop.PC
+{
+    [System.Serializable]
+    public class ObjectPoolItem
+    {
+        //Can now add multiple powerups to the pool to be instantiated with tags
+        [Tooltip("The object to pool.")] public GameObject objectToPool;
+        [Tooltip("The initial amount to spawn.")] public int amountToPool;
+        [Tooltip("When the initial amount of objects have been used, do you want to spawn more?")] public bool shouldExpand;
+    }
+
+    public class BallPool : MonoBehaviour
+    {
+        public static BallPool instance;
+        public List<GameObject> pooledBalls;
+        public List<ObjectPoolItem> itemsToPool;
+
+        private void Awake()
+        {
+            instance = this;
+        }
+
+        private void Start()
+        {
+            pooledBalls = new List<GameObject>();
+
+            pooledBalls = new List<GameObject>();
+            foreach (ObjectPoolItem item in itemsToPool)
+            {
+                for (int i = 0; i < item.amountToPool; i++)
+                {
+                    GameObject obj = (GameObject)Instantiate(item.objectToPool);
+                    obj.SetActive(false);
+                    pooledBalls.Add(obj);
+                }
+            }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="_tag">Objects with tag specified will be spawned when this method is called.</param>
+        /// <returns></returns>
+        public GameObject GetPooledBasketball(string _tag)
+        {
+            for (int i = 0; i < pooledBalls.Count; i++)
+            {
+                if (!pooledBalls[i].activeInHierarchy && pooledBalls[i].tag == _tag)
+                {
+                    return pooledBalls[i];
+                }
+            }
+            foreach (ObjectPoolItem item in itemsToPool)
+            {
+                //Expand the pool for powerups and stuff
+                if (item.objectToPool.tag == _tag)
+                {
+                    if (item.shouldExpand)
+                    {
+                        GameObject obj = (GameObject)Instantiate(item.objectToPool);
+                        obj.SetActive(false);
+                        pooledBalls.Add(obj);
+                        return obj;
+                    }
+                }
+            }
+            return null;
+        }
+    }
+}

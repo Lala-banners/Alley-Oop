@@ -5,28 +5,37 @@ using UnityEngine;
 [AddComponentMenu("Player/Mouse Look")]
 public class MouseLook : MonoBehaviour
 {
+    #region enum
     public enum RotationAxis
     {
         MouseH,
         MouseV,
     }
+    #endregion
+    #region Variables
     [Header("Rotation Variables")]
     public RotationAxis axis = RotationAxis.MouseH;
     [Range(0, 200)]
     public float sensitivity = 100;
     public float minY = -60, maxY = 60;
     private float _rotY;
+    #endregion
+    #region Start
     private void Start()
     {
+        //Freeze the rigidbody so it doesnt fall over
         if (GetComponent<Rigidbody>())
         {
             GetComponent<Rigidbody>().freezeRotation = true;
         }
+        //
         if (GetComponent<Camera>())
         {
             axis = RotationAxis.MouseV;
         }
     }
+    #endregion
+    #region Update
     private void Update()
     {
         if (axis == RotationAxis.MouseH)
@@ -41,4 +50,5 @@ public class MouseLook : MonoBehaviour
 
         }
     }
+    #endregion
 }

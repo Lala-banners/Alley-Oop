@@ -8,14 +8,16 @@ namespace AlleyOop.PC
     {
         [SerializeField] private Transform spawnPos;
         public AudioSource rainbowFX;
-
+        
         // Update is called once per frame
         void Update()
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.P))
             {
                 //To spawn specific pooled object with the tag Basketball
-                GameObject basketball = BallPool.instance.GetPooledBasketball("Ball");
+
+                //Originally: GameObject basketball = BallPool.instance.GetPooledBasketball("Ball"); 
+                GameObject basketball = Pool.instance.GetPooledBasketball("Ball");
                 if (basketball != null)
                 {
                     basketball.transform.position = spawnPos.transform.position;

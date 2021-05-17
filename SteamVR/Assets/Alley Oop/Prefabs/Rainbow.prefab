@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780809680}
   - component: {fileID: 780809679}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,8 @@ GameObject:
   - component: {fileID: 1342505391272413741}
   - component: {fileID: 678851113559209242}
   - component: {fileID: 8515394149705026884}
-  m_Layer: 0
+  - component: {fileID: -6361499622678401783}
+  m_Layer: 6
   m_Name: Rainbow
   m_TagString: Ball
   m_Icon: {fileID: 0}
@@ -244,3 +245,15 @@ MonoBehaviour:
   onStopUsing:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-6361499622678401783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342505391272413742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa301f3785c01248a46838a733e6991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

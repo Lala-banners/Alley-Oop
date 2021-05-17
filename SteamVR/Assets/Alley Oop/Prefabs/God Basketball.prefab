@@ -14,8 +14,9 @@ GameObject:
   - component: {fileID: 5065114024378109395}
   - component: {fileID: 6737574886898528996}
   - component: {fileID: 2506163071159192250}
-  m_Layer: 0
-  m_Name: Basketball 1
+  - component: {fileID: -892314926221267112}
+  m_Layer: 6
+  m_Name: God Basketball
   m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -151,6 +152,18 @@ MonoBehaviour:
   onStopUsing:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &-892314926221267112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5065114024378109392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa301f3785c01248a46838a733e6991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6119107475249885744
 GameObject:
   m_ObjectHideFlags: 0
@@ -161,7 +174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6119107475249885742}
   - component: {fileID: 6119107475249885745}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}

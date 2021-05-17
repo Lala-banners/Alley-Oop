@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace AlleyOop.PC
 {
-    public class ExampleSpawn : MonoBehaviour
+    public class Spawn : MonoBehaviour
     {
         [SerializeField] private Transform spawnPos;
         public AudioSource rainbowFX;

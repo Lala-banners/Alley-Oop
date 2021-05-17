@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.Audio;
+using AlleyOop.PC.Powerup;
 
 namespace AlleyOop.VR
 {

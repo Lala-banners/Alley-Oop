@@ -28,18 +28,17 @@ namespace AlleyOop.PC
         {
             pickupText.gameObject.SetActive(false);
             ballGrabSpeedProper = ballGrabSpeed * Time.deltaTime;
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
             ballGrabbed = false;
         }
 
 
         private void Update()
         {
-
-
-
             RaycastHit hit;
             LayerMask mask = LayerMask.GetMask("Ball");
-
+            ballHolder.rotation = cam.transform.rotation;
 
             if (Physics.Raycast(cam.transform.position, cam.transform.TransformDirection(Vector3.forward), out hit, pickupDist, mask))
             {
@@ -93,6 +92,7 @@ namespace AlleyOop.PC
                 {
                     ball.gameObject.transform.SetParent(ballHolder);
                    
+                    
                     rigi.constraints = RigidbodyConstraints.FreezeAll;
                     
                 }
@@ -112,7 +112,7 @@ namespace AlleyOop.PC
         {
             rigi.constraints = RigidbodyConstraints.None;
             ball.gameObject.transform.SetParent(null);
-            rigi.AddForce(0,0,0.1f, ForceMode.Impulse); 
+            rigi.AddForce(0,ballHolder.transform.rotation.y,ballHolder.transform.rotation.z + 0.1f, ForceMode.Impulse); 
             ballGrabbed = false;
         }
 

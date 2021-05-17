@@ -20,6 +20,7 @@ namespace AlleyOop.PC
         public float pickupDist;
         public Transform ballHolder;
         public Rigidbody rigi;
+
         [Header("UI")]
         public Text pickupText;
         public LayerMask layer;
@@ -87,6 +88,7 @@ namespace AlleyOop.PC
             while (ball.gameObject.transform.position != ballHolder.position)
             {
                 Debug.Log("Grabbing Ball");
+                
                 ball.gameObject.transform.position = Vector3.MoveTowards(ball.gameObject.transform.position, ballHolder.position, ballGrabSpeedProper);
                 if (ball.gameObject.transform.position == ballHolder.position)
                 {

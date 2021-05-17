@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject[] hoops = new GameObject[4];
 
-    // Update is called once per frame
-    void Update()
+    public void SpawnHoop(int i)
     {
-        
+        Instantiate(hoops[i], transform.position, transform.rotation);
     }
 }

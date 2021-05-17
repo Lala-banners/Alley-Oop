@@ -94,7 +94,8 @@ namespace AlleyOop.PC
                    
                     
                     rigi.constraints = RigidbodyConstraints.FreezeAll;
-                    
+                    ball.gameObject.transform.rotation = ballHolder.gameObject.transform.rotation;
+
                 }
                 yield return null;
             }
@@ -112,7 +113,7 @@ namespace AlleyOop.PC
         {
             rigi.constraints = RigidbodyConstraints.None;
             ball.gameObject.transform.SetParent(null);
-            rigi.AddForce(0,ballHolder.transform.rotation.y,ballHolder.transform.rotation.z + 0.1f, ForceMode.Impulse); 
+            rigi.AddRelativeForce(0, 0.03f,0.06f, ForceMode.Impulse); 
             ballGrabbed = false;
         }
 

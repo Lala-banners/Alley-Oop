@@ -8,6 +8,10 @@ TagManager:
   - Hoop
   - projectile
   - FxTemporaire
+  - Rainbow
+  - Freeze
+  - Slow
+  - Lock
   layers:
   - Default
   - TransparentFX

@@ -6,7 +6,6 @@ namespace AlleyOop.PC
 {
     public class Spawn : MonoBehaviour
     {
-        [SerializeField] private Transform spawnPos;
         public AudioSource rainbowFX;
         
         // Update is called once per frame
@@ -20,8 +19,8 @@ namespace AlleyOop.PC
                 GameObject basketball = Pool.instance.GetPooledBasketball("Ball");
                 if (basketball != null)
                 {
-                    basketball.transform.position = spawnPos.transform.position;
-                    basketball.transform.rotation = spawnPos.transform.rotation;
+                    basketball.transform.position = Pool.instance.spawnPos.transform.position;
+                    basketball.transform.rotation = Pool.instance.spawnPos.transform.rotation;
                     basketball.SetActive(true);
                     rainbowFX.Play();
                 }

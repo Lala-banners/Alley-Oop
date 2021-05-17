@@ -18,6 +18,7 @@ namespace AlleyOop.PC
         public static Pool instance;
         public List<GameObject> pooledObjects;
         public List<ObjectPoolItem> itemsToPool;
+        public Transform spawnPos;
 
         private void Awake()
         {

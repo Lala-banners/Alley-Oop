@@ -11,24 +11,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/LockOnEffect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/HoopType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/SlowEffect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/FreezeEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PathCreator/Core/Runtime/Objects/BezierPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ExampleSpawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MouseLook.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Spawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/PowerUps.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/FreezeEffect.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/SlowEffect.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/LockOnEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Spawn.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Pool.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/Difficulty.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />
@@ -90,8 +85,7 @@
       <workItem from="1620697582559" duration="3816000" />
       <workItem from="1620739187838" duration="12000" />
       <workItem from="1620739306949" duration="724000" />
-      <workItem from="1621223967550" duration="2013000" />
-      <workItem from="1621226248214" duration="7432000" />
+      <workItem from="1621223967550" duration="5280000" />
     </task>
     <servers />
   </component>

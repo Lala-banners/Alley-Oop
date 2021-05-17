@@ -35,6 +35,11 @@ namespace AlleyOop.VR
                 score++;
                 scoreFX.Play();
             }
+            if (collider.gameObject.CompareTag("Fireball"))
+            {
+                score += 3;
+                scoreFX.Play();
+            }
         }
 
     }

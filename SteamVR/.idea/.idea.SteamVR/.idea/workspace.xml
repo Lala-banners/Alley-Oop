@@ -11,7 +11,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/LockOnEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/HoopType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/SlowEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/FreezeEffect.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -19,8 +23,12 @@
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MouseLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Spawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/PowerUps.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/FreezeEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/SlowEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/LockOnEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Game/Difficulty.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />
@@ -38,7 +46,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -83,7 +91,7 @@
       <workItem from="1620739187838" duration="12000" />
       <workItem from="1620739306949" duration="724000" />
       <workItem from="1621223967550" duration="2013000" />
-      <workItem from="1621226248214" duration="1364000" />
+      <workItem from="1621226248214" duration="7432000" />
     </task>
     <servers />
   </component>

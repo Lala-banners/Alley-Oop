@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -37,6 +38,38 @@ namespace AlleyOop.PC
 
         private void Update()
         {
+           
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                if(ballGrabbed == false)
+                {
+                    RaycastHit hit;
+                    LayerMask mask = LayerMask.GetMask("Ball");
+                    ballHolder.rotation = cam.transform.rotation;
+                    
+                    if (Physics.Raycast(cam.transform.position, cam.transform.TransformDirection(Vector3.forward), out hit,
+                        pickupDist, mask))
+                    {
+                        StartCoroutine(GrabBall(selectedBall, rigi));
+                    }
+                }
+               else if (ballGrabbed == true)
+                {
+                    ReleaseBall(selectedBall, rigi);
+
+                }
+                
+            }
+            
+            if (Input.GetMouseButtonDown(0) && ballGrabbed == true)
+            {
+                ShootBall(selectedBall, rigi);
+            }
+        }
+        
+
+        private void FixedUpdate()
+        {
             RaycastHit hit;
             LayerMask mask = LayerMask.GetMask("Ball");
             ballHolder.rotation = cam.transform.rotation;
@@ -49,24 +82,11 @@ namespace AlleyOop.PC
                 {
                     pickupText.gameObject.SetActive(true);
                     pickupText.text = "Pick up ball (E)";
-                    if (Input.GetKeyDown(KeyCode.E) && ballGrabbed == false)
-                    {
-                        StartCoroutine(GrabBall(selectedBall, rigi));
-                    }
-                    else if (Input.GetKeyDown(KeyCode.E) && ballGrabbed == true)
-                    {
-                        ReleaseBall(selectedBall, rigi);
-                    }
-                    else if (Input.GetMouseButtonDown(0) && ballGrabbed == true)
-                    {
-                         ShootBall(selectedBall, rigi);
-                    }
-                  
-
-
+                   
+                   
+                   
 
                 }
-               
 
             }
             else
@@ -75,11 +95,12 @@ namespace AlleyOop.PC
                 pickupText.gameObject.SetActive(false);
             }
 
-           
-            
         }
-       
-       
+
+        private void LateUpdate()
+        {
+           
+        }
 
         IEnumerator GrabBall(Ball ball, Rigidbody rigi)
         {

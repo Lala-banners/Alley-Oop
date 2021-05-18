@@ -18,11 +18,11 @@
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ExampleSpawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MouseLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/PowerUps.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Spawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Pool.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />
@@ -40,7 +40,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -86,6 +86,7 @@
       <workItem from="1620739306949" duration="724000" />
       <workItem from="1621223967550" duration="5280000" />
       <workItem from="1621236991994" duration="648000" />
+      <workItem from="1621320101739" duration="907000" />
     </task>
     <servers />
   </component>

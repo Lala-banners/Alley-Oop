@@ -52,11 +52,7 @@ namespace AlleyOop.VR
                 Destroy(gameObject);
                 return;
             }
-        }
 
-        // Start is called before the first frame update
-        void Start()
-        {
             //Validate all the variable Transform components
             //Stoopid us proofing
             ValidateComponent(leftCtrl);

@@ -12,6 +12,8 @@ TagManager:
   - Freeze
   - Slow
   - Lock
+  - StandardHoop
+  - RingHoop
   layers:
   - Default
   - TransparentFX

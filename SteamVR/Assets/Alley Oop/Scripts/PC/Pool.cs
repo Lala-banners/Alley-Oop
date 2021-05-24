@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace AlleyOop.PC
+namespace AlleyOop
 {
     [System.Serializable]
     public class ObjectPoolItem

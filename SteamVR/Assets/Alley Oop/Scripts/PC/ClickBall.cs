@@ -9,7 +9,6 @@ namespace AlleyOop.PC
 {
     public class ClickBall : MonoBehaviour
     {
-
         [Header("Ball")]
         Ball selectedBall;
         bool ballGrabbed;
@@ -82,10 +81,6 @@ namespace AlleyOop.PC
                 {
                     pickupText.gameObject.SetActive(true);
                     pickupText.text = "Pick up ball (E)";
-                   
-                   
-                   
-
                 }
 
             }
@@ -95,11 +90,6 @@ namespace AlleyOop.PC
                 pickupText.gameObject.SetActive(false);
             }
 
-        }
-
-        private void LateUpdate()
-        {
-           
         }
 
         IEnumerator GrabBall(Ball ball, Rigidbody rigi)
@@ -122,8 +112,6 @@ namespace AlleyOop.PC
                 }
                 yield return null;
             }
-            
-            
         }
 
         public void ReleaseBall(Ball ball, Rigidbody rigi)

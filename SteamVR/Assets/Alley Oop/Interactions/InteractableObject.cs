@@ -36,6 +36,7 @@ namespace AlleyOop.VR.Interaction
         public InteractionEvent onStopTouching = new InteractionEvent();
         public InteractionEvent onUsed = new InteractionEvent();
         public InteractionEvent onStopUsing = new InteractionEvent();
+        
 
         private new Collider collider;
         private new Rigidbody rigidbody;

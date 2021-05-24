@@ -118,6 +118,9 @@ namespace AlleyOop.VR
             tracerObj.layer = 2;
             cursorObj.layer = 2;
 
+            Destroy(tracerObj.GetComponent<BoxCollider>());
+            Destroy(cursorObj.GetComponent<SphereCollider>());
+
             tracer = tracerObj.transform;
             cursor = cursorObj.transform;
 

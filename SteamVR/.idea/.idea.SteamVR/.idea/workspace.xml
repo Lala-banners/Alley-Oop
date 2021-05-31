@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VrUGUIPointer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -23,6 +24,10 @@
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/VRInputModule.cs" />
+      <option value="$PROJECT_DIR$/Assets/VrInputModule.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Pointer.cs" />
+      <option value="$PROJECT_DIR$/Assets/VrUGUIPointer.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />
@@ -87,6 +92,7 @@
       <workItem from="1621223967550" duration="5280000" />
       <workItem from="1621236991994" duration="648000" />
       <workItem from="1621320101739" duration="907000" />
+      <workItem from="1622432657931" duration="2500000" />
     </task>
     <servers />
   </component>

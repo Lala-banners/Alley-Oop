@@ -9,5 +9,6 @@ public class GameManager : MonoBehaviour
     public void SpawnHoop(int i)
     {
         Instantiate(hoops[i], transform.position, transform.rotation);
+        Debug.Log($"{hoops[i].gameObject.name} is being spawned");
     }
 }

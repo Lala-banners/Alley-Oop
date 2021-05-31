@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using AlleyOop;
 
 namespace AlleyOop.VR
 {
@@ -28,13 +30,13 @@ namespace AlleyOop.VR
             {
                 Active = true;
                 cursor.gameObject.SetActive(true);
-                cursor.gameObject.SetActive(true);
+                tracer.gameObject.SetActive(true);
             });
             controller.Input.OnPointerReleased.AddListener(_args =>
             {
                 Active = false;
                 cursor.gameObject.SetActive(false);
-                cursor.gameObject.SetActive(false);
+                tracer.gameObject.SetActive(false);
             });
             CreatePointer();
             cursor.gameObject.SetActive(false);
@@ -75,6 +77,13 @@ namespace AlleyOop.VR
                 // set the cursor to the endpoint and scale it
                 cursor.position = _hit.point;
                 cursor.localScale = Vector3.one * cursorScaleFactor;
+                Debug.Log(_hit.collider.gameObject);
+
+              /*  if(_hit.collider.gameObject.CompareTag("Button"))
+                {
+                    Button newButton = gameObject.GetComponent<Button>();
+                    newButton.onClick();
+                }*/
             }
             else
             {
@@ -93,6 +102,8 @@ namespace AlleyOop.VR
             }
 
         }
+
+
         private void CalculateDirAndDist(Vector3 _start, Vector3 _end, out Vector3 _dir, out float _distance)
         {
             Vector3 heading = _end - _start;
@@ -103,6 +114,12 @@ namespace AlleyOop.VR
         {
             GameObject tracerObj = GameObject.CreatePrimitive(PrimitiveType.Cube);
             GameObject cursorObj = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+
+            tracerObj.layer = 2;
+            cursorObj.layer = 2;
+
+            Destroy(tracerObj.GetComponent<BoxCollider>());
+            Destroy(cursorObj.GetComponent<SphereCollider>());
 
             tracer = tracerObj.transform;
             cursor = cursorObj.transform;

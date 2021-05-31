@@ -21,8 +21,8 @@
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Spawn.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/Pool.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" />
-      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />

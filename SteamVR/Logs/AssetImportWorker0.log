@@ -3061,3 +3061,2571 @@ System memory in use after: 145.2 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4032.
 Total: 4.390500 ms (FindLiveObjects: 0.626600 ms CreateObjectMapping: 0.299600 ms MarkObjects: 3.354500 ms  DeleteObjects: 0.107600 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1421.284034 seconds.
+  path: Assets/Alley Oop/Scenes/VR
+  artifactKey: Guid(ff94fbe2efefb51488ad924f61f01ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scenes/VR using Guid(ff94fbe2efefb51488ad924f61f01ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769b6c255a2fc659767cc31aca664fe4') in 0.012823 seconds
+  Import took 0.021673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046621 seconds.
+  path: Assets/Alley Oop/Scenes/VR/Post Processing Volume Profile.asset
+  artifactKey: Guid(15392070008d60d4e8130ea029f5517f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scenes/VR/Post Processing Volume Profile.asset using Guid(15392070008d60d4e8130ea029f5517f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02b952b09cd5c9a55dce9d655dc996c') in 0.012580 seconds
+  Import took 0.017924 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4032.
+Total: 3.594500 ms (FindLiveObjects: 0.390600 ms CreateObjectMapping: 0.165500 ms MarkObjects: 2.939300 ms  DeleteObjects: 0.097600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 226.768695 seconds.
+  path: Assets/Alley Oop/Scripts/PC/Spawn.cs
+  artifactKey: Guid(8177b332ac5bbca40a60feec09a501cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/PC/Spawn.cs using Guid(8177b332ac5bbca40a60feec09a501cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3feb080c3b73e1b332842cfd095ad4') in 0.006405 seconds
+  Import took 0.012474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.663326 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/VersionManager.cs
+  artifactKey: Guid(7033f78ebe7e0324084faf9ab369f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/VersionManager.cs using Guid(7033f78ebe7e0324084faf9ab369f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674f0c78febd118ecd3e817baabd10af') in 0.007358 seconds
+  Import took 0.014732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001789 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/VersionManager.cs
+  artifactKey: Guid(7033f78ebe7e0324084faf9ab369f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/VersionManager.cs using Guid(7033f78ebe7e0324084faf9ab369f402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674f0c78febd118ecd3e817baabd10af') in 0.002468 seconds
+  Import took 0.007600 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4032.
+Total: 3.925500 ms (FindLiveObjects: 0.369600 ms CreateObjectMapping: 0.159500 ms MarkObjects: 3.301800 ms  DeleteObjects: 0.093100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.541205 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2876f94f61f051b2342365b2f9f194b') in 0.010229 seconds
+  Import took 0.016574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.968672 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae73a687ac9f9925dcb7cc026c2563e9') in 0.002769 seconds
+  Import took 0.008035 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.150 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4035.
+Total: 3.929200 ms (FindLiveObjects: 0.560200 ms CreateObjectMapping: 0.182400 ms MarkObjects: 3.080800 ms  DeleteObjects: 0.103400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.869160 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf65c3a30307a03c33230c8588d780a') in 0.006149 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003594 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4038.
+Total: 3.785500 ms (FindLiveObjects: 0.375000 ms CreateObjectMapping: 0.223700 ms MarkObjects: 3.084100 ms  DeleteObjects: 0.101300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.008997 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef215c58b119914b070c6dd98b5e9d3') in 0.006355 seconds
+  Import took 0.011156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108663 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef215c58b119914b070c6dd98b5e9d3') in 0.003536 seconds
+  Import took 0.010663 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4041.
+Total: 3.493800 ms (FindLiveObjects: 0.441500 ms CreateObjectMapping: 0.171100 ms MarkObjects: 2.781900 ms  DeleteObjects: 0.098200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.380634 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe083e033562f58ddca59b18867049f') in 0.006311 seconds
+  Import took 0.013440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.253088 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe083e033562f58ddca59b18867049f') in 0.002654 seconds
+  Import took 0.008912 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003742 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.2 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4044.
+Total: 3.739300 ms (FindLiveObjects: 0.651400 ms CreateObjectMapping: 0.201900 ms MarkObjects: 2.777400 ms  DeleteObjects: 0.106500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.460550 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f8350c7359377580fb230ccb3ed036') in 0.006544 seconds
+  Import took 0.012298 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.108 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.2 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4047.
+Total: 3.459700 ms (FindLiveObjects: 0.358200 ms CreateObjectMapping: 0.159300 ms MarkObjects: 2.856300 ms  DeleteObjects: 0.085200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.425073 seconds.
+  path: Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs
+  artifactKey: Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs using Guid(eae011ac6776d7644976bb6526d0df1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c16b5622ecbf6caa89b49d74c13107') in 0.006933 seconds
+  Import took 0.012694 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.2 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4050.
+Total: 3.291900 ms (FindLiveObjects: 0.445300 ms CreateObjectMapping: 0.180500 ms MarkObjects: 2.563900 ms  DeleteObjects: 0.101100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.3 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4053.
+Total: 3.847300 ms (FindLiveObjects: 0.444100 ms CreateObjectMapping: 0.295800 ms MarkObjects: 2.995400 ms  DeleteObjects: 0.110600 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4053.
+Total: 3.346500 ms (FindLiveObjects: 0.439000 ms CreateObjectMapping: 0.215700 ms MarkObjects: 2.600800 ms  DeleteObjects: 0.089900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.119575 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Circle Hoop Prefab.prefab
+  artifactKey: Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Circle Hoop Prefab.prefab using Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a0b757e4fb3df1cdd272405989595e') in 0.303168 seconds
+  Import took 0.309811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199d6e0aaef8deeeb903db88f7ede1f7') in 0.081326 seconds
+  Import took 0.087401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab
+  artifactKey: Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab using Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fc61884fcf5ab1f9a153c17f2025a9') in 0.059533 seconds
+  Import took 0.065021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Circle Hoop Prefab.prefab
+  artifactKey: Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Circle Hoop Prefab.prefab using Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a0b757e4fb3df1cdd272405989595e') in 0.062349 seconds
+  Import took 0.067237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab
+  artifactKey: Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab using Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fc61884fcf5ab1f9a153c17f2025a9') in 0.055878 seconds
+  Import took 0.060958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab
+  artifactKey: Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab using Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97cfe3bd66557087db8011d6d94c3c8e') in 0.063126 seconds
+  Import took 0.068910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab
+  artifactKey: Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab using Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e4c6ba589d6cb3871474f84887d89a') in 0.061484 seconds
+  Import took 0.066973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab
+  artifactKey: Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab using Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70aa145bf79ae57de491461955515207') in 0.065755 seconds
+  Import took 0.071236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c382a3f47f45fb6bbe63d7afd0653510') in 0.060878 seconds
+  Import took 0.066243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005421 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c382a3f47f45fb6bbe63d7afd0653510') in 0.053310 seconds
+  Import took 0.058309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.017987 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab
+  artifactKey: Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab using Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfca99a50e359cbe1222ba0c0f7e510') in 0.063022 seconds
+  Import took 0.068293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.819744 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dbad3b8bcf639b16ee76154011d8bb') in 0.063078 seconds
+  Import took 0.068986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.077344 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aaaf14932f4177a2f9f544efba58894') in 0.066212 seconds
+  Import took 0.071807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.111239 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34767059cf41249d15d0246f6ee501b8') in 0.056575 seconds
+  Import took 0.061901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.339323 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65377a11d45f46867812df183db2e241') in 0.057050 seconds
+  Import took 0.062109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.400127 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd586b6db650884f499a1089be8ad603') in 0.065853 seconds
+  Import took 0.071948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.212780 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edd609cc5e2124d96656125e1ff65e4') in 0.064685 seconds
+  Import took 0.069808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.639723 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ba0329741de753e31148e3f882b310') in 0.060081 seconds
+  Import took 0.065604 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.4 MB.
+System memory in use after: 145.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4092.
+Total: 3.889800 ms (FindLiveObjects: 0.385400 ms CreateObjectMapping: 0.167400 ms MarkObjects: 3.241000 ms  DeleteObjects: 0.094800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.4 MB.
+System memory in use after: 145.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4095.
+Total: 3.754400 ms (FindLiveObjects: 0.623100 ms CreateObjectMapping: 0.244200 ms MarkObjects: 2.781600 ms  DeleteObjects: 0.104000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.4 MB.
+System memory in use after: 145.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4098.
+Total: 3.890900 ms (FindLiveObjects: 0.641900 ms CreateObjectMapping: 0.250800 ms MarkObjects: 2.861500 ms  DeleteObjects: 0.134000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.866781 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab
+  artifactKey: Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab using Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22eb273c7e0c238bd5820c96a721d7c') in 0.257160 seconds
+  Import took 0.265456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.645585 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab
+  artifactKey: Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab using Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0367cbf9df597745b60009cc80cb348') in 0.055712 seconds
+  Import took 0.061270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.632740 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab
+  artifactKey: Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab using Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430164fc4f20883b248079e70a6fa1ba') in 0.055263 seconds
+  Import took 0.060615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.726103 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f89ee5dcdd9be64118674949ff58f4') in 0.006302 seconds
+  Import took 0.011051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.568480 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab
+  artifactKey: Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab using Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5635ea41824feb6b81b8640b58beb2') in 0.005136 seconds
+  Import took 0.011413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.322989 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab
+  artifactKey: Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab using Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154c8b245f146cbcac8a10339c5e7434') in 0.004048 seconds
+  Import took 0.009057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab
+  artifactKey: Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab using Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050ed58385adabb2e8de77d081d54e74') in 0.007488 seconds
+  Import took 0.012087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.085817 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab
+  artifactKey: Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop Hoop.prefab using Guid(5c345366d1eec754a9c640282330ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcf0c594daf33fc55d06383b4b25929') in 0.004246 seconds
+  Import took 0.009226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.326979 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab
+  artifactKey: Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Round circle hoop.prefab using Guid(9a5e2fca615559c468b15140ae653513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779c4c48b8e6d15e45b850c1c54c94c8') in 0.005059 seconds
+  Import took 0.011073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.453430 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab
+  artifactKey: Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side Hoop.prefab using Guid(d7726d0c5f391524793556d6bd279227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea5485ab65ffcf4f0fe9c937cb2577b') in 0.004289 seconds
+  Import took 0.009875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.455354 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab
+  artifactKey: Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop.prefab using Guid(9aa00ecb17401e64a9140261e9ccf627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5472fc0cd906dffc424ff1b282b4166d') in 0.008406 seconds
+  Import took 0.013791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.911407 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(1153547133116be42bf2068fc0230313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50afaa185d57e6c7cf706a20fc5a0949') in 0.057719 seconds
+  Import took 0.065114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Side to side hoop.prefab
+  artifactKey: Guid(11844ef6bae404c428b843aa3b6e0fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Side to side hoop.prefab using Guid(11844ef6bae404c428b843aa3b6e0fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bfd69052bd0b248e681f51612cbfe2c') in 0.058001 seconds
+  Import took 0.064015 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003574 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.5 MB.
+System memory in use after: 145.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4137.
+Total: 3.794700 ms (FindLiveObjects: 0.399400 ms CreateObjectMapping: 0.215400 ms MarkObjects: 3.061500 ms  DeleteObjects: 0.117000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.343763 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops
+  artifactKey: Guid(2f4d3ae111bf84d46a736e78dca87b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops using Guid(2f4d3ae111bf84d46a736e78dca87b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce74a4db0b70c7a62c8ad5619f750a9') in 0.013272 seconds
+  Import took 0.018193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.397318 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Basketball Hoop Model
+  artifactKey: Guid(eb75e89e5a697484b9022f913969dead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Basketball Hoop Model using Guid(eb75e89e5a697484b9022f913969dead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17920228c7c755836696c1b9e43dba4') in 0.007991 seconds
+  Import took 0.012918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.525984 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB.prefab
+  artifactKey: Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB.prefab using Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b91905bba9ee91ae650620b0a166059') in 0.252950 seconds
+  Import took 0.260196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab
+  artifactKey: Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab using Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7516b7be48b7fc74146be2637f3f5eb5') in 0.064894 seconds
+  Import took 0.070295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.688973 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB.prefab
+  artifactKey: Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB.prefab using Guid(809dbf59689416c4b9484dc4684233f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f4f312bd810af384b896bc6c0f61d3') in 0.063592 seconds
+  Import took 0.069803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab
+  artifactKey: Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab using Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5004508e00d6d7b80bf7a2fd1b5a22') in 0.063857 seconds
+  Import took 0.069240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.009183 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 1.prefab
+  artifactKey: Guid(a84ce8072aad7834e8d8827ab2982699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 1.prefab using Guid(a84ce8072aad7834e8d8827ab2982699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e01b07594d7e827dd162b4f2e973e98') in 0.061167 seconds
+  Import took 0.066751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.113522 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 2.prefab
+  artifactKey: Guid(6f53191237257f8419f93a7fc8fa032b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 2.prefab using Guid(6f53191237257f8419f93a7fc8fa032b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bef9f9e26de41a28c4a1238986382d') in 0.062675 seconds
+  Import took 0.067960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.110734 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 3.prefab
+  artifactKey: Guid(b49811beadb9de4438bd699b596ec561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 3.prefab using Guid(b49811beadb9de4438bd699b596ec561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d929727f5af64d01b80f1fb48dc5df') in 0.059112 seconds
+  Import took 0.064754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.253678 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 4.prefab
+  artifactKey: Guid(c8149526a1259d64bb97cad9793c2605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/HOOP PREFAB 4.prefab using Guid(c8149526a1259d64bb97cad9793c2605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87266acedbcd46044b6c0f87ec43ef55') in 0.065112 seconds
+  Import took 0.070990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.718493 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab
+  artifactKey: Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Ring Hoop.prefab using Guid(627dd4979a78916489b810b3ecf2a95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7675a9fda1dc5284a905867fc693ebb') in 0.005344 seconds
+  Import took 0.010977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.093410 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab
+  artifactKey: Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab using Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7faa90cf5d520f96b1fb91561ac88df5') in 0.069217 seconds
+  Import took 0.074823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.302568 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7431682cfc348eb1c2c7a8bc10f0cff') in 0.063909 seconds
+  Import took 0.070971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.455170 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64cc352957eea0ef41e11fb00a06d0b9') in 0.064480 seconds
+  Import took 0.069684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.581932 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop 4.prefab
+  artifactKey: Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop 4.prefab using Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86578c99e4acf3b40990e5c965e60222') in 0.058424 seconds
+  Import took 0.065289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.856735 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba5371ebd68e0d72d224934df0b2be3') in 0.063811 seconds
+  Import took 0.069876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.102720 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9075760b9d2cefcb8b2e16c876060741') in 0.061377 seconds
+  Import took 0.066287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.540252 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac9b682af870fd655c57787060d80f3') in 0.060790 seconds
+  Import took 0.066327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.717591 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16efa70b61c011642a76ceeb87884714') in 0.054721 seconds
+  Import took 0.060417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.943956 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5937144204db74d30dbbee364cc9a670') in 0.055663 seconds
+  Import took 0.060854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.094505 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371f61e5c5f9dfe55ec362822add18c5') in 0.057729 seconds
+  Import took 0.063233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.566315 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7805caa9c34324e727ceb93e803ba0e7') in 0.060399 seconds
+  Import took 0.066015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.607122 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745efec7cbfb95d2d0b8951023f905ac') in 0.055300 seconds
+  Import took 0.061086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.643263 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4d586a013a98479ff1c86c1eb21f60') in 0.057421 seconds
+  Import took 0.062926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.609690 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd021edc80ba4c430b7772e62d82f9e08') in 0.063317 seconds
+  Import took 0.068271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.451130 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992abf5c2eee6621a0fdb90bd02bd46f') in 0.059861 seconds
+  Import took 0.064878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.154247 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86dd98799ee185c4e587d83073fd2d7d') in 0.060846 seconds
+  Import took 0.067006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.076173 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53248dfde7573e82562092535b9f5c4') in 0.063813 seconds
+  Import took 0.070344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.078297 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e4300f9f5c5fecbede2d90265c3d48') in 0.060313 seconds
+  Import took 0.066572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.939598 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4416ced26ee1346af68e49ef6c61c9fa') in 0.068045 seconds
+  Import took 0.073680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.204713 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0f124c727703ae06a35a348d2c5791') in 0.064661 seconds
+  Import took 0.069875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.609847 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d9293db1ed06f32284e9b128bc4f85') in 0.065546 seconds
+  Import took 0.072709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.085526 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15de59f4f5f51498f2d221408710632b') in 0.057253 seconds
+  Import took 0.063704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.815990 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd2890d7266f02de0ee297c3fe0be9b') in 0.060251 seconds
+  Import took 0.066215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.262534 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59de751565e19907725079efab5033e9') in 0.056849 seconds
+  Import took 0.063118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.509262 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bbda48a81808afc189b68152dfc46f') in 0.057949 seconds
+  Import took 0.064275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.082566 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c352bdfc930587a50c9a08c00dd41e') in 0.061179 seconds
+  Import took 0.067108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.572145 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253b36a6f6e8bdd7d913a4ab5a59d8c7') in 0.054623 seconds
+  Import took 0.060602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.571535 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17094a605e99a58a5bf6fb10599e8f85') in 0.058738 seconds
+  Import took 0.065195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.973547 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596542a75f00067f350cd3851b1bdc54') in 0.054269 seconds
+  Import took 0.060159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.230084 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f201697686094e20d56e57f220ad9e77') in 0.070162 seconds
+  Import took 0.076103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.128276 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc2a35b28d5233fa97923c05ff888da') in 0.067850 seconds
+  Import took 0.075817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.411630 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13371b8d5ef811c7bf98c59df00bd68f') in 0.065380 seconds
+  Import took 0.072629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.741777 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f042c83c8f9d17ab2dd38ca0b336d8c') in 0.055884 seconds
+  Import took 0.061458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.937113 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275df4ade03c5ee237d1d6fbb951f3d0') in 0.055793 seconds
+  Import took 0.061683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.333386 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58283e83af57d3678d9ac5a8ad821a4f') in 0.081767 seconds
+  Import took 0.087072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.726295 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e772f9a838bcdd94b856e411cea24ba') in 0.053078 seconds
+  Import took 0.058266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.848075 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78991f6fb267ac3aa9ebf3814fb9cebe') in 0.055836 seconds
+  Import took 0.062284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.148873 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9dff5e1c42ba36a575bea147293467') in 0.067110 seconds
+  Import took 0.072958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.636315 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268c42e48e71588ff8751d96e3c82bdd') in 0.075043 seconds
+  Import took 0.081356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738750 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93aa681bce2c72b3859d78d184d9b10') in 0.060772 seconds
+  Import took 0.066813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.217724 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7068e0956c1fc96ba8716b8f2811e34') in 0.060811 seconds
+  Import took 0.067201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.604758 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eeeff76d304d9b98ea67188731e7e98') in 0.056055 seconds
+  Import took 0.061838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.755613 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdb0ec74e94b7285e86bd3b2c6664d6') in 0.068171 seconds
+  Import took 0.073553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.353354 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0ebbe590b37c0c113860b893f1c7fa') in 0.056254 seconds
+  Import took 0.062109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.357944 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5627eb91d6432e25055405f2302e0e0') in 0.052079 seconds
+  Import took 0.057525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.323835 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c8ba2f665eb1799a0582b52dde82aef') in 0.056782 seconds
+  Import took 0.063662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.059822 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd551195498530889609c4788bea1e8d3') in 0.060559 seconds
+  Import took 0.066398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.672882 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507d650da61afd8e0ed5e7a294dba5cc') in 0.064322 seconds
+  Import took 0.069976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.261559 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed27b8d5c20d57438624e189a067f7ec') in 0.055786 seconds
+  Import took 0.061281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.420922 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef9c642e39cc59e968f3e6cd71340c6') in 0.053032 seconds
+  Import took 0.059143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.096160 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e34bab85a6c0a8cbcb82b2a4b03112a') in 0.062010 seconds
+  Import took 0.068058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.194375 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777c8e89577a14a5402a204dc6931720') in 0.057411 seconds
+  Import took 0.063820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.989361 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1beed89c869fa0f82aaa7e24e4172919') in 0.070080 seconds
+  Import took 0.076512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.965007 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc35b168efa5de1166f8a93865004e29') in 0.057737 seconds
+  Import took 0.063334 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003966 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.8 MB.
+System memory in use after: 146.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4176.
+Total: 4.566900 ms (FindLiveObjects: 0.620800 ms CreateObjectMapping: 0.226900 ms MarkObjects: 3.600700 ms  DeleteObjects: 0.116900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.540292 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79131a7dffe01cf5647952bcf8ed7f86') in 0.260811 seconds
+  Import took 0.269911 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.9 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4215.
+Total: 4.923000 ms (FindLiveObjects: 0.597500 ms CreateObjectMapping: 0.264900 ms MarkObjects: 3.923600 ms  DeleteObjects: 0.135400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003494 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.9 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4218.
+Total: 3.647700 ms (FindLiveObjects: 0.511800 ms CreateObjectMapping: 0.199300 ms MarkObjects: 2.835400 ms  DeleteObjects: 0.099700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.9 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4221.
+Total: 3.889700 ms (FindLiveObjects: 0.645800 ms CreateObjectMapping: 0.217300 ms MarkObjects: 2.926300 ms  DeleteObjects: 0.099200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.173 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.0 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4224.
+Total: 4.767400 ms (FindLiveObjects: 0.519600 ms CreateObjectMapping: 0.234100 ms MarkObjects: 3.895200 ms  DeleteObjects: 0.117200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.403066 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86223b016aba455681a028bf65db735e') in 0.252289 seconds
+  Import took 0.257521 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003461 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.173 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.1 MB.
+System memory in use after: 146.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4263.
+Total: 4.601000 ms (FindLiveObjects: 0.540200 ms CreateObjectMapping: 0.232800 ms MarkObjects: 3.718000 ms  DeleteObjects: 0.108400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003691 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.1 MB.
+System memory in use after: 146.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4266.
+Total: 3.565100 ms (FindLiveObjects: 0.418800 ms CreateObjectMapping: 0.177500 ms MarkObjects: 2.868500 ms  DeleteObjects: 0.099200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.155 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.1 MB.
+System memory in use after: 146.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4269.
+Total: 5.066100 ms (FindLiveObjects: 0.567500 ms CreateObjectMapping: 0.264400 ms MarkObjects: 4.102900 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.712402 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop 3.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa38dc52a4d60227568fcdf09718a75') in 0.263842 seconds
+  Import took 0.269100 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.2 MB.
+System memory in use after: 146.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4308.
+Total: 4.243700 ms (FindLiveObjects: 0.413100 ms CreateObjectMapping: 0.142800 ms MarkObjects: 3.581800 ms  DeleteObjects: 0.104900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.081074 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384ee1e8b0fbaac095ea70a51a9ceb7c') in 0.260169 seconds
+  Import took 0.269047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.569001 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde082d237f054675c5d57c92866c0ba') in 0.058686 seconds
+  Import took 0.064127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.751565 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125991073005fd578c60d8acaffbf794') in 0.055983 seconds
+  Import took 0.060925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.951869 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab
+  artifactKey: Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop.prefab using Guid(73ffc775880654f4daee8d626acc86a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a0b1c33761ef7b67c334eec10995a5') in 0.061496 seconds
+  Import took 0.067942 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003591 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4347.
+Total: 4.456500 ms (FindLiveObjects: 0.666900 ms CreateObjectMapping: 0.342700 ms MarkObjects: 3.311600 ms  DeleteObjects: 0.133700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4350.
+Total: 3.980500 ms (FindLiveObjects: 0.488700 ms CreateObjectMapping: 0.246500 ms MarkObjects: 3.141400 ms  DeleteObjects: 0.102600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4353.
+Total: 4.250000 ms (FindLiveObjects: 0.554000 ms CreateObjectMapping: 0.293100 ms MarkObjects: 3.295000 ms  DeleteObjects: 0.106400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4356.
+Total: 4.430300 ms (FindLiveObjects: 0.459300 ms CreateObjectMapping: 0.179600 ms MarkObjects: 3.532300 ms  DeleteObjects: 0.257600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.196 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4359.
+Total: 5.360800 ms (FindLiveObjects: 0.789400 ms CreateObjectMapping: 0.272100 ms MarkObjects: 4.196000 ms  DeleteObjects: 0.101000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4362.
+Total: 3.664000 ms (FindLiveObjects: 0.380800 ms CreateObjectMapping: 0.154500 ms MarkObjects: 3.026800 ms  DeleteObjects: 0.100500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004740 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4365.
+Total: 5.150100 ms (FindLiveObjects: 0.675100 ms CreateObjectMapping: 0.328800 ms MarkObjects: 3.989200 ms  DeleteObjects: 0.155400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4368.
+Total: 3.978000 ms (FindLiveObjects: 0.522000 ms CreateObjectMapping: 0.181300 ms MarkObjects: 3.175000 ms  DeleteObjects: 0.098400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 685.299646 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92caccc6e9165186ce566ebe2ef10bd') in 0.260192 seconds
+  Import took 0.266212 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4407.
+Total: 4.329200 ms (FindLiveObjects: 0.757300 ms CreateObjectMapping: 0.343400 ms MarkObjects: 3.130100 ms  DeleteObjects: 0.097400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4410.
+Total: 3.966900 ms (FindLiveObjects: 0.461500 ms CreateObjectMapping: 0.182200 ms MarkObjects: 3.199800 ms  DeleteObjects: 0.122000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4413.
+Total: 3.910500 ms (FindLiveObjects: 0.582400 ms CreateObjectMapping: 0.231000 ms MarkObjects: 2.972600 ms  DeleteObjects: 0.123000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.156 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4416.
+Total: 3.560700 ms (FindLiveObjects: 0.475900 ms CreateObjectMapping: 0.224600 ms MarkObjects: 2.735600 ms  DeleteObjects: 0.123000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003733 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4419.
+Total: 4.602900 ms (FindLiveObjects: 0.766400 ms CreateObjectMapping: 0.259300 ms MarkObjects: 3.466500 ms  DeleteObjects: 0.108800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003756 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4422.
+Total: 3.821700 ms (FindLiveObjects: 0.486200 ms CreateObjectMapping: 0.187800 ms MarkObjects: 3.050500 ms  DeleteObjects: 0.095500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4425.
+Total: 5.191200 ms (FindLiveObjects: 0.560100 ms CreateObjectMapping: 0.345100 ms MarkObjects: 4.148400 ms  DeleteObjects: 0.135500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4428.
+Total: 4.884200 ms (FindLiveObjects: 0.634700 ms CreateObjectMapping: 0.243600 ms MarkObjects: 3.880200 ms  DeleteObjects: 0.124000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4431.
+Total: 3.486700 ms (FindLiveObjects: 0.460100 ms CreateObjectMapping: 0.151800 ms MarkObjects: 2.771600 ms  DeleteObjects: 0.101800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4434.
+Total: 6.152500 ms (FindLiveObjects: 0.856500 ms CreateObjectMapping: 0.288800 ms MarkObjects: 4.854500 ms  DeleteObjects: 0.150800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.169 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4437.
+Total: 4.139700 ms (FindLiveObjects: 0.558400 ms CreateObjectMapping: 0.196300 ms MarkObjects: 3.281700 ms  DeleteObjects: 0.101900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.276582 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab
+  artifactKey: Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Hoop.prefab using Guid(b0825443a5cebcd4cbb23fc9a2127637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbf924784220a00318b471a1e84df6d') in 0.256732 seconds
+  Import took 0.262468 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.8 MB.
+System memory in use after: 146.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4476.
+Total: 3.936600 ms (FindLiveObjects: 0.578500 ms CreateObjectMapping: 0.190600 ms MarkObjects: 3.065000 ms  DeleteObjects: 0.101000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.220726 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Loop Container.prefab
+  artifactKey: Guid(84e1029f4450fe84cab39b2fcf948e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Loop Container.prefab using Guid(84e1029f4450fe84cab39b2fcf948e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca65bdc97488b1d3ca2e3f807494e93') in 0.266071 seconds
+  Import took 0.271585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.532043 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop Container.prefab
+  artifactKey: Guid(aa13818207b60004d8c3d22004dc858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Orbital Hoop Container.prefab using Guid(aa13818207b60004d8c3d22004dc858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5607111d623e1b624684a7a6722bdc') in 0.068645 seconds
+  Import took 0.077500 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.9 MB.
+System memory in use after: 147.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4515.
+Total: 5.079300 ms (FindLiveObjects: 0.659200 ms CreateObjectMapping: 0.263800 ms MarkObjects: 4.015100 ms  DeleteObjects: 0.139600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.837303 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab
+  artifactKey: Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Hoop 2.prefab using Guid(7a49cf1f08fb3374a9cc26453e0bd9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebe87e8f96231418f5598c1f49e254a') in 0.250971 seconds
+  Import took 0.256505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.953606 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab
+  artifactKey: Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab using Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af22358a382f60eecbbaaf08dc31fde8') in 0.062275 seconds
+  Import took 0.069572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.674119 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab
+  artifactKey: Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Hoop 1.prefab using Guid(774e05dbf505679479c9179fee9b9040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b5c75d63a49c8f2fc4d6055b7a1fc8') in 0.051427 seconds
+  Import took 0.057488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.036003 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Containers
+  artifactKey: Guid(82fa11aa33af80b41bb4bce7e85c1875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Containers using Guid(82fa11aa33af80b41bb4bce7e85c1875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc0a8c1dd512d8ef04c21fab39c0def') in 0.006858 seconds
+  Import took 0.013763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006935 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Containers
+  artifactKey: Guid(82fa11aa33af80b41bb4bce7e85c1875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Containers using Guid(82fa11aa33af80b41bb4bce7e85c1875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc0a8c1dd512d8ef04c21fab39c0def') in 0.002462 seconds
+  Import took 0.007169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.966714 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Standard Container.prefab
+  artifactKey: Guid(17292dd38ba38d542afac70bf4d39b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Standard Container.prefab using Guid(17292dd38ba38d542afac70bf4d39b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f32a78e614bed1ece1d400a34c96e1') in 0.065943 seconds
+  Import took 0.073919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.620540 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Container.prefab
+  artifactKey: Guid(f2e8a8964a614344a82b328d8d2ebc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Container.prefab using Guid(f2e8a8964a614344a82b328d8d2ebc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9172f5d204b567c944063cca217b135') in 0.067435 seconds
+  Import took 0.072545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007674 seconds.
+  path: Assets/Alley Oop/Prefabs/Hoops/Sideways Container.prefab
+  artifactKey: Guid(f2e8a8964a614344a82b328d8d2ebc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alley Oop/Prefabs/Hoops/Sideways Container.prefab using Guid(f2e8a8964a614344a82b328d8d2ebc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9172f5d204b567c944063cca217b135') in 0.055667 seconds
+  Import took 0.062175 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003827 seconds.
+Callback registration failed. Increase kMaxCallback.
+
+Fatal Error! Callback registration failed. Increase kMaxCallback.
+
+Crash!!!
+SymInit: Symbol-SearchPath: 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Mono;.;C:\Users\lalal\OneDrive - TAFE NSW\Diploma GIT\VR\SteamVR;C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'lalal'
+OS-Version: 10.0.0
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe:Unity.exe (00007FF69E8C0000), size: 134246400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.2.2.33144
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFA38650000), size: 2052096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFA37D70000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFA36000000), size: 2916352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFA36320000), size: 1437696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFA35EA0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFA37510000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FF9B4210000), size: 8974336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.0.0.0
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\optix.6.0.0.dll:optix.6.0.0.dll (00007FFA2FB50000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.0.0.0
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\OpenImageDenoise.dll:OpenImageDenoise.dll (00007FF9AF270000), size: 43806720 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFA36680000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFA37790000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFA35D90000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFA38560000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFA36560000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFA37470000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FF9F2D20000), size: 1306624 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6414336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.18.0.0
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFA37EE0000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFA37400000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFA36CB0000), size: 7610368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFA36B80000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFA38500000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\WLDAP32.dll:WLDAP32.dll (00007FFA37BB0000), size: 352256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFA378B0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FF9E8480000), size: 1609728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\Normaliz.dll:Normaliz.dll (00007FFA37E30000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FFA31C70000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.1812.6001
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFA37F80000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFA376B0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\tbb.dll:tbb.dll (00007FFA0C480000), size: 413696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2017.0.2016.1004
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFA36710000), size: 4624384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFA14EC0000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.28.29913.0
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFA362D0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFA36530000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFA25630000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFA02D00000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFA14E30000), size: 577536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.28.29913.0
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFA37C10000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFA35FA0000), size: 393216 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.804
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFA35210000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FF9FE590000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40664.0
+C:\WINDOWS\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FF9EEB70000), size: 978944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40664.0
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFA34670000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFA35760000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFA24BB0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFA276E0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\RadeonImageFilters.dll:RadeonImageFilters.dll (00007FF9D8840000), size: 2535424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.1.0
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FF9B3980000), size: 8978432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.0
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFA2B0F0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFA14E20000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.28.29913.0
+C:\WINDOWS\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFA12590000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FF9FBD30000), size: 483328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.20342
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFA12FC0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFA35C80000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\OpenRL.dll:OpenRL.dll (000001B2A8100000), size: 12779520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.100.0
+C:\WINDOWS\SYSTEM32\MSVCP100.dll:MSVCP100.dll (0000000051910000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+C:\WINDOWS\SYSTEM32\MSVCR100.dll:MSVCR100.dll (0000000051830000), size: 860160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\embree.dll:embree.dll (00007FF9AB950000), size: 16711680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.14.0.0
+C:\WINDOWS\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FFA35570000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000001B2A8D50000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.9.0.0
+C:\WINDOWS\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFA35980000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFA33CE0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFA36600000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFA33780000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFA379E0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFA33EE0000), size: 7929856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFA35800000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFA35CD0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\System32\netprofm.dll:netprofm.dll (00007FFA308E0000), size: 253952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\npmproxy.dll:npmproxy.dll (00007FFA2BB40000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFA384F0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFA2DC40000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFA2DC80000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFA35250000), size: 835584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFA16960000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFA2E190000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFA32310000), size: 2506752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFA346D0000), size: 999424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhm.inf_amd64_8b4d9e47bd3cf024\nvldumdx.dll:nvldumdx.dll (00007FFA2AF00000), size: 1069056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.6230
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFA2AE30000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFA37E40000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFA35740000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFA34EA0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhm.inf_amd64_8b4d9e47bd3cf024\nvwgf2umx.dll:nvwgf2umx.dll (00007FF9CD6C0000), size: 77426688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.6230
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FF9EDFE0000), size: 2887680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.20.0.118
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFA34BF0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFA2B370000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFA28770000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFA2B050000), size: 606208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFA276C0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFA27710000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFA27630000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFA35C50000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2104.14-0\MpOav.dll:MpOav.dll (00007FFA27560000), size: 495616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2104.14
+C:\Program Files\McAfee\MfeAV\AMSIExt.dll:AMSIExt.dll (00007FFA274C0000), size: 630784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.3.176.0
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFA377C0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\cudart64_90.dll:cudart64_90.dll (00007FFA0BFD0000), size: 397312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.14.11.9000
+C:\WINDOWS\SYSTEM32\opencl.dll:opencl.dll (00007FF9DB910000), size: 1462272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.2.8.0
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\radeonrays.dll:radeonrays.dll (00007FF9DBCD0000), size: 552960 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF9A2670000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\ProgramData\Microsoft\VisualStudio\Setup\x64\Microsoft.VisualStudio.Setup.Configuration.Native.dll:Microsoft.VisualStudio.Setup.Configuration.Native.dll (00007FF9EAD20000), size: 327680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.3111.17308
+C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFA317F0000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.867
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.844_none_ca00b6081b84eb1d\comctl32.dll:comctl32.dll (00007FFA18F70000), size: 2727936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.19041.844
+C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFA2D830000), size: 1785856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FF9FD1B0000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\policymanager.dll:policymanager.dll (00007FFA31750000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FFA34F30000), size: 565248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFA30930000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFA36034B89 (KERNELBASE) RaiseException
+0x00007FF6A0FBFB1D (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF6A0FC0A6A (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF6A2B5BE2E (Unity) DebugStringToFilePostprocessedStacktrace
+0x00007FF6A2B5B3DF (Unity) DebugStringToFile
+0x00007FF69EB1C7F3 (Unity) CallbackArraySubBase<void (__cdecl*)(MemoryManager::AllocationLogDetails const & __ptr64)>::Register
+0x00007FF6A178A299 (Unity) LoadDomainAndUserAssemblies
+0x00007FF6A178A74E (Unity) LoadUserAssemblies
+0x00007FF6A1BB39E9 (Unity) <lambda_fe9441f73272b7bdb4fc543a788e7929>::operator()
+0x00007FF6A1C7DD82 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007FF6A1C7FEE0 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007FF6A1C8366E (Unity) asio::io_service::run
+0x00007FF6A1BF9BA0 (Unity) RunAssetImportWorkerClientV2
+0x00007FF6A1BF9BF0 (Unity) RunAssetImporterV2
+0x00007FF6A1117EE6 (Unity) Application::InitializeProject
+0x00007FF6A1A8D0B2 (Unity) WinMain
+0x00007FF6A38F0C66 (Unity) __scrt_common_main_seh
+0x00007FFA37D87034 (KERNEL32) BaseThreadInitThunk
+0x00007FFA386A2651 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/lalal/AppData/Local/Temp/Unity/Editor/Crashes

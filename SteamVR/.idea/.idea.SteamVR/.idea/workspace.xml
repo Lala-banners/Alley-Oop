@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/VRUGUIPointer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -23,6 +24,9 @@
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/MoveHoop.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Managers/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/PC/ClickBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/Pointer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/VRUGUIPointer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Alley Oop/Scripts/Vr/VRInputModule.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sN07hdN54GF03W9jbVFVGaqsue" />
@@ -40,6 +44,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,6 +92,7 @@
       <workItem from="1621223967550" duration="5280000" />
       <workItem from="1621236991994" duration="648000" />
       <workItem from="1621320101739" duration="907000" />
+      <workItem from="1622432589981" duration="3486000" />
     </task>
     <servers />
   </component>

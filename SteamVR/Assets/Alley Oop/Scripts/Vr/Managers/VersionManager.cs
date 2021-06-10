@@ -8,19 +8,23 @@ namespace AlleyOop
     
     public class VersionManager : MonoBehaviour
     {
+        #region Variables
         public GameObject VrRig;
         public GameObject PcRig;
 
         public GameObject VRUI;
         public GameObject PCUI;
-
+        #endregion
+        #region Start
         void Start()
         {
+            //VR interface is active
             if(VR.VrUtils.IsVREnabled())
             {
                 VRUI.gameObject.SetActive(true);
                 
             }
+            //PC interface is active
             else
             {
                 VrRig.gameObject.SetActive(false);
@@ -29,6 +33,7 @@ namespace AlleyOop
                 VRUI.gameObject.SetActive(false);
             }
         }
+        #endregion
         private void Update()
         {
             if (VR.VrUtils.IsVREnabled())
@@ -37,6 +42,7 @@ namespace AlleyOop
             }
             else
             {
+                //Bring up the hoop menu if escape is pressed
                 if (Input.GetKeyDown(KeyCode.Escape))
                 {
 

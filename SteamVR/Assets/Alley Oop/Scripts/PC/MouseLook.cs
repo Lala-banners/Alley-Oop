@@ -28,7 +28,7 @@ public class MouseLook : MonoBehaviour
         {
             GetComponent<Rigidbody>().freezeRotation = true;
         }
-        //
+     
         if (GetComponent<Camera>())
         {
             axis = RotationAxis.MouseV;
@@ -38,14 +38,19 @@ public class MouseLook : MonoBehaviour
     #region Update
     private void Update()
     {
+        //Horizontal Looking
         if (axis == RotationAxis.MouseH)
         {
             transform.Rotate(0, Input.GetAxis("Mouse X")*sensitivity*Time.deltaTime, 0);
         }
+        //Vertical looking
         else
         {
+            // Maximum and minimum vertical look angle
             _rotY += Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
             _rotY = Mathf.Clamp(_rotY, minY, maxY);
+
+
             transform.localEulerAngles = new Vector3(-_rotY,0,0);
 
         }

@@ -21,16 +21,13 @@ namespace AlleyOop
             //VR interface is active
             if(VR.VrUtils.IsVREnabled())
             {
-                VRUI.gameObject.SetActive(true);
+                SwitchToVR();
                 
             }
             //PC interface is active
             else
             {
-                VrRig.gameObject.SetActive(false);
-                PcRig.gameObject.SetActive(true);
-                PCMenuActive();
-                VRUI.gameObject.SetActive(false);
+                SwitchToPC();
             }
         }
         #endregion
@@ -71,6 +68,21 @@ namespace AlleyOop
                 Time.timeScale = 1;
             }
         }
+        public void SwitchToPC()
+        {
+            VrRig.gameObject.SetActive(false);
+            PcRig.gameObject.SetActive(true);
+            PCMenuActive();
+            VRUI.gameObject.SetActive(false);
+        }
+        public void SwitchToVR()
+        {
+            VrRig.gameObject.SetActive(true);
+            PcRig.gameObject.SetActive(false);
+            VRUI.gameObject.SetActive(true);
+            PCUI.gameObject.SetActive(false);
+        }
+
     }
     
 }

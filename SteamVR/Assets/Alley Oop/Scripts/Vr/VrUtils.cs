@@ -25,6 +25,7 @@ namespace AlleyOop.VR
                 else
                 {
                     subsystem.Stop();
+                    Debug.Log("No VR devices detected");
                 }
             }
         }

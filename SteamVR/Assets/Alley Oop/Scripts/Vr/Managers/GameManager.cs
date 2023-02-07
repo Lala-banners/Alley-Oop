@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public GameObject[] hoops = new GameObject[4];
-
+    public Transform hoopSpawn;
     public void SpawnHoop(int i)
     {
         Instantiate(hoops[i], transform.position, transform.rotation);
